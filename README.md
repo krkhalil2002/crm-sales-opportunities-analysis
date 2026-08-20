@@ -47,10 +47,10 @@ Created visualizations to communicate important trends and make the findings eas
 
 ## Key Insights
 
-* []
-* []
-* []
-* []
+* [4,238 deals were won, generating approximately $10.0M in closed revenue.]
+* [The West region generated the highest closed revenue at approximately $3.57M.]
+* [GTXPro was the top revenue-generating product, contributing approximately $3.51M.]
+* [Won deals accounted for about 48% of all opportunities, while 28% were lost.]
 
 ## Dashboard / Visualizations
 
