@@ -4,7 +4,7 @@
 
 Analyzed CRM sales opportunity data from Maven Analytics to evaluate sales pipeline performance, conversion rates, product performance, and sales agent activity.
 
-The goal of this project was to transform raw CRM data into actionable business insights that could help stakeholders better understand sales performance and identify opportunities for improvement.
+The goal of this guided project was to transform raw CRM data into actionable business insights that could help stakeholders better understand sales performance and identify opportunities for improvement.
 
 ## Business Questions
 
